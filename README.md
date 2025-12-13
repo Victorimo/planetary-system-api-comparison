@@ -18,7 +18,7 @@ planetary-system-api-comparison/
 │   ├── pom.xml
 │   └── README.md                   # Documentation of manual implementation
 │
-├── ai-generated-gpt5/              # Code generated using GPT-5
+├── ai-generated-gpt/              # Code generated using GPT-5
 │   ├── src/
 │   ├── pom.xml
 │   └── README.md                   # AI generation notes and missing features
