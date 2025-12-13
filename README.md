@@ -5,9 +5,7 @@
 This repository contains a comparative analysis of **manually-written code** versus **AI-generated code** for a Spring Boot REST API project. The project implements a Planetary System API with entities for Planets, Moons, and Users.
 
 **Course:** Application Development  
-**Institution:** Munster Technological University (MTU), Cork, Ireland  
-**Academic Year:** 2025-2026  
-**Student:** Victorimo  
+Students : Victor Orimolusi, Edward
 
 ---
 
@@ -138,14 +136,6 @@ All prompts, test results, and comparative analysis are documented in the `/docs
 - [Project Specification](docs/specification.pdf)
 - [Technical Report](docs/Technical-Report.pdf)
 - [AI Prompts](docs/AI-Generation-Prompts.md)
-
----
-
-## 📧 Contact
-
-**Student**: Victorimo  
-**Institution**: Munster Technological University  
-**Course**: Software Development (Year 4)
 
 ---
 
