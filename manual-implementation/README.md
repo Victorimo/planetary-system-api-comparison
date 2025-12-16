@@ -2,7 +2,7 @@
 
 A Spring Boot RESTful API with GraphQL for managing planets and moons, featuring security, AOP logging, and centralised exception handling.
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Prerequisites](#prerequisites)
 - [Setup Instructions](#setup-instructions)
@@ -287,9 +287,9 @@ mutation {
 
 AOP logging is automatically active. Check console logs for:
 
-- 🔵 Controller method logs
-- 🟢 Transactional service method logs
-- 🟡 Repository method logs
+-  Controller method logs
+-  Transactional service method logs
+-  Repository method logs
 
 ## Project Structure
 
@@ -339,7 +339,7 @@ src/main/java/ie/spring/planetary/
 
 ### Current Status
 
-✅ **Fully Implemented:**
+ **Fully Implemented:**
 
 - All REST endpoints for Planets and Moons
 - GraphQL Query and Mutation for Users
@@ -375,6 +375,3 @@ src/main/java/ie/spring/planetary/
 - **Spring AOP** (AspectJ)
 - **Jakarta Validation**
 
-## License
-
-This project is part of a university course assignment.
