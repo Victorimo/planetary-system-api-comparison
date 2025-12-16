@@ -30,7 +30,7 @@ planetary-system-api-comparison/
 │
 ├── docs/                           # Documentation and analysis
 │   ├── AI-Generation-Prompts.md    # All prompts used with AI tools
-│   ├── Technical-Report.pdf        # ~2000-word comparative analysis
+│   ├── Technical-Report.pdf        # Comparative analysis
 │   └── test-results/
 │       ├── gpt5-test-results.txt
 │       └── claude-test-results.txt
