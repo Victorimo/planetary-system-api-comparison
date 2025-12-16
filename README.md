@@ -41,7 +41,7 @@ planetary-system-api-comparison/
 
 ---
 
-## 🎯 Project Requirements
+## Project Requirements
 
 ### Technical Stack
 - **Java**: 17+
@@ -65,7 +65,7 @@ planetary-system-api-comparison/
 
 ---
 
-## 🤖 AI Tools Used
+## AI Tools Used
 
 1. **GPT-5** (OpenAI)
 2. **Claude Sonnet 4.5** (Anthropic)
@@ -74,7 +74,7 @@ Both tools received the **same initial prompt** to ensure fair comparison.
 
 ---
 
-## 📊 Comparative Analysis Focus
+## Comparative Analysis Focus
 
 The technical report evaluates:
 - ✅ **Functionality Coverage**: Which features were implemented correctly?
@@ -86,7 +86,7 @@ The technical report evaluates:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Running the Manual Implementation
 ```bash
@@ -116,7 +116,7 @@ mvn spring-boot:run
 
 ---
 
-## 📝 Assessment Breakdown
+## Assessment Breakdown
 
 - **Manual Implementation**: 40%
 - **Security & Role Enforcement**: 10%
@@ -125,13 +125,13 @@ mvn spring-boot:run
 
 ---
 
-## 📚 Documentation
+## Documentation
 
 All prompts, test results, and comparative analysis are documented in the `/docs` folder.
 
 ---
 
-## 🔗 Links
+## Links
 
 - [Project Specification](docs/specification.pdf)
 - [Technical Report](docs/Technical-Report.pdf)
@@ -139,7 +139,7 @@ All prompts, test results, and comparative analysis are documented in the `/docs
 
 ---
 
-## 📅 Project Timeline
+## Project Timeline
 
 This repository demonstrates the development timeline through commit history:
 1. Initial setup and manual implementation
