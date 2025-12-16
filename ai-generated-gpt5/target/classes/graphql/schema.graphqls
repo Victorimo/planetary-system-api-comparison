@@ -1,0 +1,13 @@
+type Query {
+    findUserById(id: ID!): User!
+}
+
+type Mutation {
+    createUser(username: String!, password: String!, role: String!): User!
+}
+
+type User {
+    id: ID!
+    username: String!
+    role: String!
+}
