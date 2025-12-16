@@ -9,7 +9,7 @@ Students : Victor Orimolusi, Edward Inegbenosun
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 planetary-system-api-comparison/
