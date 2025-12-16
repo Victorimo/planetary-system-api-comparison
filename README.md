@@ -5,7 +5,7 @@
 This repository contains a comparative analysis of **manually-written code** versus **AI-generated code** for a Spring Boot REST API project. The project implements a Planetary System API with entities for Planets, Moons, and Users.
 
 **Course:** Application Development  
-Students : Victor Orimolusi, Edward
+Students : Victor Orimolusi, Edward Inegbenosun
 
 ---
 
