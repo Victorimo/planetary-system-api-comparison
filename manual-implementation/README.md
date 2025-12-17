@@ -356,13 +356,6 @@ src/main/java/ie/spring/planetary/
 - **In-Memory Database:** Data is lost on application restart (H2 in-memory)
 - **Deprecation Warnings:** `DaoAuthenticationProvider` constructor and methods show deprecation warnings (acceptable for manual implementation/learning)
 
-### Missing Features (Not Required)
-
-- Front-end application
-- Database persistence (using in-memory H2)
-- Unit/integration tests
-- Full GraphQL service for all entities
-
 ## Technologies Used
 
 - **Spring Boot 3.5.7**
