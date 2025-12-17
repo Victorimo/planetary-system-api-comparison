@@ -77,12 +77,12 @@ Both tools received the **same initial prompt** to ensure fair comparison.
 ## Comparative Analysis Focus
 
 The technical report evaluates:
-- ✅ **Functionality Coverage**: Which features were implemented correctly?
-- ✅ **Code Quality**: Readability, maintainability, structure
-- ✅ **Spring Boot Best Practices**: DTOs, layering, validation, annotations
-- ✅ **Security Implementation**: Authentication, authorization, password hashing
-- ✅ **Exception Handling & Logging**: @ControllerAdvice, AspectJ
-- ✅ **Code Efficiency**: Complexity and design patterns
+-  **Functionality Coverage**: Which features were implemented correctly?
+-  **Code Quality**: Readability, maintainability, structure
+-  **Spring Boot Best Practices**: DTOs, layering, validation, annotations
+-  **Security Implementation**: Authentication, authorization, password hashing
+-  **Exception Handling & Logging**: @ControllerAdvice, AspectJ
+-  **Code Efficiency**: Complexity and design patterns
 
 ---
 
@@ -114,40 +114,4 @@ mvn spring-boot:run
 | staff    | staff123 | STAFF |
 | student  | student123 | STUDENT |
 
----
 
-## Assessment Breakdown
-
-- **Manual Implementation**: 40%
-- **Security & Role Enforcement**: 10%
-- **AI Code Comparison**: 40%
-- **Technical Report Quality**: 10%
-
----
-
-## Documentation
-
-All prompts, test results, and comparative analysis are documented in the `/docs` folder.
-
----
-
-## Links
-
-- [Project Specification](docs/specification.pdf)
-- [Technical Report](docs/Technical-Report.pdf)
-- [AI Prompts](docs/AI-Generation-Prompts.md)
-
----
-
-## Project Timeline
-
-This repository demonstrates the development timeline through commit history:
-1. Initial setup and manual implementation
-2. AI code generation (GPT-5)
-3. AI code generation (Claude Sonnet 4.5)
-4. Testing and evaluation
-5. Technical report and documentation
-
----
-
-*This project is part of the Application Development module assessment at MTU Cork.*
